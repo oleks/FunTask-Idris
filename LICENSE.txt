@@ -1,4 +1,10 @@
-﻿EUROPEAN UNION PUBLIC LICENCE v. 1.2 
+﻿Copyright (c) 2017 Oleks Shturmov
+Licensed under the EUPL, Version 1.2 (English text below)
+
+The licence text is also available (including in 22 other EU languages) at
+https://joinup.ec.europa.eu/community/eupl/og_page/eupl
+
+EUROPEAN UNION PUBLIC LICENCE v. 1.2 
 EUPL © the European Union 2007, 2016 
 
 This European Union Public Licence (the ‘EUPL’) applies to the Work (as defined below) which is provided under the 
